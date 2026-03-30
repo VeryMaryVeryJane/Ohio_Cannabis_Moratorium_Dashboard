@@ -13,9 +13,9 @@ Following the passage of Issue 2, many local governments in Ohio exercised their
 ## 🧪 Data Methodology & Sources
 Tracking local "opt-outs" and moratoriums in Ohio requires synthesizing data from multiple state and local government channels.
 
-1. Data Sources
-The Ohio Division of Cannabis Control (DCC): Primary source for identifying licensed dual-use operators and state-level regulatory updates.
+## Data Sources
+1. The Ohio Division of Cannabis Control (DCC): Primary source for identifying licensed dual-use operators and state-level regulatory updates.
 
-OSU Moritz College of Law (Drug Enforcement and Policy Center): Used for verifying the list of the 149+ Ohio municipal corporations and townships that have enacted moratoriums.
+2. OSU Moritz College of Law (Drug Enforcement and Policy Center): Used for verifying the list of the 149+ Ohio municipal corporations and townships that have enacted moratoriums.
 
-Local Government Records: Individual city council and township trustee meeting minutes were cross-referenced to determine the specific "Ending Date" or "Indefinite" status of local bans.
+3. Local Government Records: Individual city council and township trustee meeting minutes were cross-referenced to determine the specific "Ending Date" or "Indefinite" status of local bans.
