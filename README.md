@@ -1,1 +1,21 @@
 # Ohio_Cannabis_Moratorium_Dashboard
+
+An interactive Looker Studio dashboard tracking municipalities and townships in Ohio that have enacted bans or temporary moratoriums on adult-use cannabis operators.
+
+## 🚀 Live Interactive Tracker
+[![Live Demo](https://img.shields.io/badge/View_Ohio_Moratorium_Map-d32f2f?style=for-the-badge&logo=googlelookerstudio&logoColor=white)](https://verymaryveryjane.github.io/Ohio-Cannabis-Moratoriums/)
+
+---
+
+## 🧐 Why this project?
+Following the passage of Issue 2, many local governments in Ohio exercised their right to opt-out or pause business operations. This tool helps stakeholders visualize the regulatory landscape in real-time.
+
+## 🧪 Data Methodology & Sources
+Tracking local "opt-outs" and moratoriums in Ohio requires synthesizing data from multiple state and local government channels.
+
+1. Data Sources
+The Ohio Division of Cannabis Control (DCC): Primary source for identifying licensed dual-use operators and state-level regulatory updates.
+
+OSU Moritz College of Law (Drug Enforcement and Policy Center): Used for verifying the list of the 149+ Ohio municipal corporations and townships that have enacted moratoriums.
+
+Local Government Records: Individual city council and township trustee meeting minutes were cross-referenced to determine the specific "Ending Date" or "Indefinite" status of local bans.
